@@ -1,4 +1,6 @@
-import simPython, time
+# Spacer Comment
+import time
+import simPython
 
 # Needed to prevent loops from locking up the javascript thread
 SENSOR_DELAY = 0.001
